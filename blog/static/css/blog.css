@@ -1,7 +1,10 @@
-.container {
-  background-color: #d7e7e4;
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+* {
+  background-color: #2d2f3d;
+  color: #f1f1f1;
+  font-family: "Press Start 2P", cursive;
 }
 h1 a,
 h2 a {
-  color: lightpink;
+  color: #01d301;
 }
